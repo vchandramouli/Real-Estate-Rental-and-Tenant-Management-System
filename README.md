@@ -71,7 +71,7 @@ EMAIL_PASS= <your_gmail_pass> or <your_gmail_app_password>
 ```bash
 
 VITE_APP_BASE_URL=http://Your_IP:3000
-VITE_APP_API_URL=http://Your_IPlhost:5000/api
+VITE_APP_API_URL=http://Your_IP:5000/api
 VITE_APP_API_HOST=http://Your_IP:5000
 ```
 
