@@ -20,7 +20,7 @@ Demo Site - [Property Plus](https://property-plus.onrender.com/)
 
 ### Prerequisites
 
-- Install node js in ubuntu
+- Install Node.js Version 16 in ubuntu
 
 1. Clone the repository:
 
