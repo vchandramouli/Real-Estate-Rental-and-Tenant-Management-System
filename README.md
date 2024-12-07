@@ -84,5 +84,5 @@ $ npm run dev
 6. to access application :
 
 ```bash
-hit: https://Your_IP:3000
+hit: http://Your_IP:3000
 ```
